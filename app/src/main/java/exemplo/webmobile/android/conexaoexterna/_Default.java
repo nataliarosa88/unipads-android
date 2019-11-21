@@ -1,8 +1,6 @@
 package exemplo.webmobile.android.conexaoexterna;
 
-/**
- * Created by evandro on 16/03/2015.
- */
+
 public class _Default {
     protected String _mensagem;
     protected boolean _status;

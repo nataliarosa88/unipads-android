@@ -4,9 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 
-/**
- * Created by evandro on 16/03/2015.
- */
+
 public class DB extends _Default implements Runnable {
 
     private Connection conn;

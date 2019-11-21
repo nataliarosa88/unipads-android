@@ -13,9 +13,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-/**
- * Created by evandro on 02/02/2015.
- */
+
 public class UsuarioAdapter extends ArrayAdapter<Usuario> {
     private Context context;
     private ArrayList<Usuario> lista;

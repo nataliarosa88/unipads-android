@@ -5,9 +5,7 @@ import android.os.AsyncTask;
 import java.sql.Connection;
 import java.sql.ResultSet;
 
-/**
- * Created by evandro on 16/03/2015.
- */
+
 public class ExecuteDB extends AsyncTask<String,Void,ResultSet> {
 
     private Connection connection;

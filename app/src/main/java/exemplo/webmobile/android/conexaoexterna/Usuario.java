@@ -3,9 +3,7 @@ package exemplo.webmobile.android.conexaoexterna;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-/**
- * Created by evandro on 16/03/2015.
- */
+
 public class Usuario extends _Default {
 
     private int id;
